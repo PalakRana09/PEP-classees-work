@@ -1,0 +1,25 @@
+1. standalone application :- single user single machine (if i want to access i have to go to that place where machine is placed )
+2. web based application :- need URL 
+Limitations( no limitations)
+3.Enterprises application :- when two or more applications comunnicate each other like, myntra , H&M , ICICI bank 
+
+CMMI level   
+
+classes , object and method
+
+* class , abstract class and interface 
+    |             |                |
+    |             |                |
+           partial requriment    blue print
+
+data members of class :- method , constructor and variables 
+
+self :- 
+
+write a logic addition of two numbers.(H.W)
+1)create
+2)display
+3)raise salary
+4)exit
+5)enter the name 
+6)enter the age 
