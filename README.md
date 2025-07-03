@@ -1,4 +1,4 @@
-## 💼 Daily Work Progress - July Training Log
+## 💼 Daily Work Progress - PEP Training Log
 Welcome to my daily progress log! This repository contains the files and notes from my ongoing training program. The work is organized week-wise and focuses on hands-on practice with Python, web development, and programming problem-solving using LeetCode and HackerRank.
 
 📅 Weekly Breakdown
